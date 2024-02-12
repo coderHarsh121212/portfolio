@@ -32,12 +32,12 @@ const PortfolioProject = () => {
               </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
                 <a
-                  className="btn-css md:p-1"
+                  className="btn-css md:p-1 py-2"
                   href="https://github.com/coderHarsh121212/Coin-dash.git"
                 >
                   Source Code
                 </a>
-                <a className="btn-css md:p-1" href="cyrpto-dasher.netlify.app/">
+                <a className="btn-css md:p-1 py-2" href="cyrpto-dasher.netlify.app/">
                   Live Demo
                 </a>
               </div>
@@ -58,13 +58,13 @@ const PortfolioProject = () => {
               </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
                 <a
-                  className="btn-css md:p-1"
+                  className="btn-css md:p-1 py-2"
                   href="https://github.com/coderHarsh121212/blood-bank.git"
                 >
                   Source Code
                 </a>
                 <a
-                  className="btn-css md:p-1"
+                  className="btn-css md:p-1 py-2"
                   href="bloodbank-cloud.netlify.app/"
                 >
                   Live Demo
@@ -104,7 +104,7 @@ const PortfolioProject = () => {
                 source code
               </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
-                <a className="btn-css md:p-1" href="codesource.netlify.app/">
+                <a className="btn-css md:p-1 py-2" href="codesource.netlify.app/">
                   Live Demo
                 </a>
               </div>
