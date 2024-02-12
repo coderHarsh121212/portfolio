@@ -23,8 +23,8 @@ const Contact = () => {
        
       >
         <h1>New Delhi, India</h1>
-        <h1>harsh_229165@saitm.org</h1>
-        <h1>(+91) 96503 38936</h1>
+        <h1>harsh_229165@flip.org</h1>
+        <h1>(+91) 96232 28733</h1>
       </div>
     </div>
     </div>
