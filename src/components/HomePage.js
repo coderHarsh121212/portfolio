@@ -8,7 +8,7 @@ const HomePage = () => {
   }, []);
   return (
     <div
-      className=" min-h-screen h-screen text-white flex flex-col items-center bg-[rgba(0.13,0.13,0.13,1)] gap-y-10  md:flex-row-reverse font-serif justify-between pt-0 sm:pt-10"
+      className=" min-h-screen  text-white flex flex-col items-center bg-[rgba(0.13,0.13,0.13,1)] gap-y-10  md:flex-row-reverse font-serif justify-between pt-0 sm:pt-10"
       id="home"
     >
       <div
