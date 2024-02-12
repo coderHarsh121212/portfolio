@@ -14,6 +14,6 @@
         @apply hover:text-[#c45d45] transition-[3.5s]
     }
     .btn-css{
-        @apply p-4 bg-[#f06d55] text-white rounded-xl md:h-14 hover:bg-[#c45d45]
+        @apply py-4 p-2 bg-[#f06d55] text-white rounded-xl md:h-14 hover:bg-[#c45d45]
     }
 }
