@@ -30,7 +30,7 @@ const Navbar = () => {
       </div>
       <div
         onClick={() => setshowham(!showham)}
-        className="absolute text-white sm:hidden hover:text-red-200 right-5"
+        className="absolute text-white sm:hidden hover:text-red-200 right-5 top-5"
       >
         <Hamburger />
       </div>
