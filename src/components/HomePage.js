@@ -22,7 +22,7 @@ const HomePage = () => {
       </div>
       <div className="md:mx-auto md:w-1/3 flex flex-col gap-9 text-center relative ">
         <h1
-          className="font-bold text-3xl hover-type sm:text-5xl p-3 "
+          className="font-bold text-3xl hover-type sm:text-4xl p-3 "
           data-aos="fade-right"
         >
           Front End React <span>Developer</span>
