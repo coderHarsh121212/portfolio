@@ -12,7 +12,7 @@ const HomePage = () => {
       id="home"
     >
       <div
-        className="w-auto h-96 p-5 md:mx-auto md:w-1/3 max-w-96"
+        className="w-auto h-96 p-5 md:mx-auto md:w-1/3 max-w-96 md:h-80"
         data-aos="zoom-in"
       >
         <img
