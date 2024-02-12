@@ -33,7 +33,7 @@ const HomePage = () => {
         </p>
         <h1 className="text-[#f06d55] px-3">Tech Stack:</h1>
         <div
-          className=" flex gap-5 mx-auto flex-wrap justify-center p-3"
+          className=" flex gap-5 mx-auto flex-wrap justify-center p-3 h-fit"
           data-aos="flip-left"
         >
           <img
