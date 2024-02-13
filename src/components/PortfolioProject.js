@@ -32,7 +32,7 @@ const PortfolioProject = () => {
               </p>
               <p>
                
-                <div className="flex flex-wrap gap-3">
+                <div className="flex flex-wrap gap-3 items-center md:mb-3">
                   <span> Tech Used:</span>
                   <img
                     src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
