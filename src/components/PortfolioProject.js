@@ -93,6 +93,10 @@ const PortfolioProject = () => {
                    src="https://swyger.agglomy.com/images-ee/press/square-logo-pink.svg"
                    className="w-8 h-8"
                  ></img>
+                 <img
+                   src="https://e7.pngegg.com/pngimages/172/480/png-clipart-google-maps-apple-maps-location-summer-jam-logo-sign.png"
+                   className="w-8 h-8"
+                 ></img>
                </div>
              </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
@@ -155,6 +159,10 @@ const PortfolioProject = () => {
                  ></img>
                  <img
                    src="https://swyger.agglomy.com/images-ee/press/square-logo-pink.svg"
+                   className="w-8 h-8"
+                 ></img>
+                 <img
+                   src="https://i.pngimg.me/thumb/f/720/comseeklogo433994.jpg"
                    className="w-8 h-8"
                  ></img>
                </div>
