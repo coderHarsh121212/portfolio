@@ -90,7 +90,7 @@ const PortfolioProject = () => {
                    className="w-8 h-8"
                  ></img>
                  <img
-                   src="https://appwrite.io/images/logos/appwrite.svg"
+                   src="https://swyger.agglomy.com/images-ee/press/square-logo-pink.svg"
                    className="w-8 h-8"
                  ></img>
                </div>
@@ -154,7 +154,7 @@ const PortfolioProject = () => {
                    className="w-8 h-8"
                  ></img>
                  <img
-                   src="https://appwrite.io/images/logos/appwrite.svg"
+                   src="https://swyger.agglomy.com/images-ee/press/square-logo-pink.svg"
                    className="w-8 h-8"
                  ></img>
                </div>
