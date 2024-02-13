@@ -31,19 +31,20 @@ const PortfolioProject = () => {
                 all cryptoCurrency.
               </p>
               <p>
-                Tech Used:
-                <div className="flex flex-wrap">
+               
+                <div className="flex flex-wrap gap-3">
+                  <span> Tech Used:</span>
                   <img
                     src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-                    className="w-10 h-10"
+                    className="w-8 h-8"
                   ></img>
                   <img
                     src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-                    className="w-10 h-10"
+                    className="w-8 h-8"
                   ></img>
                   <img
                     src="https://www.chartjs.org/docs/latest/favicon.ico"
-                    className="w-10 h-10"
+                    className="w-8 h-8"
                   ></img>
                 </div>
               </p>
