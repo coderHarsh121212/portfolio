@@ -72,8 +72,8 @@ const PortfolioProject = () => {
               <h1 className="font-medium text-2xl text-center">Blood Dev</h1>
               <p className="my-4">
                 This is a website which is based on a real-life based problem.It
-                has feature like to donate as well as to take blood ground
-                easily just by personal calling on your behalf . it has a map
+                has feature like to donate as well as to take blood groups
+                easily just by personal calling on your behalf . It has a maps
                 feature which basically tell about the nearest or the other
                 blood banks or camps address.
               </p>
@@ -140,11 +140,11 @@ const PortfolioProject = () => {
               <p className="my-4">
                 It is basically a eductaion-website which which not only gives
                 you education or learning content .but also it has the blog
-                section which containes the feedback of students of various
+                section which contains the feedback of students of various
                 colleges and it containes the roadMap of frontdev with a feature
                 of links to be followed for study(Free OR Paid).In this website
                 you can basically publish or also veiw different projects with
-                source code
+                source code and can Easily make a network(like teams ).
               </p>
               <p>
                <div className="flex flex-wrap gap-3 items-center md:mb-3">
