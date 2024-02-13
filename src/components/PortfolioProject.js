@@ -28,8 +28,8 @@ const PortfolioProject = () => {
                 all cryptoCurrency.
               </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
-                <a className="btn-css md:p-1" href="https://github.com/coderHarsh121212/Coin-dash.git">Source Code</a>
-                <a className="btn-css md:p-1" href="https://cyrpto-dasher.netlify.app/">Live Demo</a>
+                <a className="btn-css md:p-5" href="https://github.com/coderHarsh121212/Coin-dash.git">Source Code</a>
+                <a className="btn-css md:p-5" href="https://cyrpto-dasher.netlify.app/">Live Demo</a>
               </div>
             </div>
           </div>
@@ -44,8 +44,8 @@ const PortfolioProject = () => {
                 blood banks or camps address.
               </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0" >
-                <a className="btn-css md:p-1" href="https://github.com/coderHarsh121212/blood-bank.git">Source Code</a>
-                <a className="btn-css md:p-1" href="https://bloodbank-cloud.netlify.app/">Live Demo</a>
+                <a className="btn-css md:p-5" href="https://github.com/coderHarsh121212/blood-bank.git">Source Code</a>
+                <a className="btn-css md:p-5" href="https://bloodbank-cloud.netlify.app/">Live Demo</a>
               </div>
             </div>
             <div className="w-full md:1/2" >
@@ -57,7 +57,7 @@ const PortfolioProject = () => {
             </div>
           </div>
           <div className="w-full p-5 font-serif my-5 md:grid md:grid-cols-2 md:gap-x-10 md:items-center flex flex-col" data-aos="fade-right" >
-            <div className="w-full md:1/2">
+            <div className="w-full md:p-[1.5rem]">
               <img
                 src="https://th.bing.com/th/id/OIP.dTjMc-Pb3pQvwrhU359jnwHaE8?rs=1&pid=ImgDetMain"
                 className="w-full"
@@ -78,7 +78,7 @@ const PortfolioProject = () => {
                 source code
               </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
-                <a className="btn-css md:p-1" href="https://codesource.netlify.app/">Live Demo</a>
+                <a className="btn-css md:p-5" href="https://codesource.netlify.app/">Live Demo</a>
               </div>
             </div>
           </div>
