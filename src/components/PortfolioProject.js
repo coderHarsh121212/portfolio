@@ -31,7 +31,6 @@ const PortfolioProject = () => {
                 all cryptoCurrency.
               </p>
               <p>
-               
                 <div className="flex flex-wrap gap-3 items-center md:mb-3">
                   <span> Tech Used:</span>
                   <img
@@ -78,27 +77,26 @@ const PortfolioProject = () => {
                 blood banks or camps address.
               </p>
               <p>
-               
-               <div className="flex flex-wrap gap-3 items-center md:mb-3">
-                 <span> Tech Used:</span>
-                 <img
-                   src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-                   className="w-8 h-8"
-                 ></img>
-                 <img
-                   src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-                   className="w-8 h-8"
-                 ></img>
-                 <img
-                   src="https://swyger.agglomy.com/images-ee/press/square-logo-pink.svg"
-                   className="w-8 h-8"
-                 ></img>
-                 <img
-                   src="https://e7.pngegg.com/pngimages/172/480/png-clipart-google-maps-apple-maps-location-summer-jam-logo-sign.png"
-                   className="w-8 h-8"
-                 ></img>
-               </div>
-             </p>
+                <div className="flex flex-wrap gap-3 items-center md:mb-3">
+                  <span> Tech Used:</span>
+                  <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+                    className="w-8 h-8"
+                  ></img>
+                  <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+                    className="w-8 h-8"
+                  ></img>
+                  <img
+                    src="https://swyger.agglomy.com/images-ee/press/square-logo-pink.svg"
+                    className="w-8 h-8"
+                  ></img>
+                  <img
+                    src="https://e7.pngegg.com/pngimages/172/480/png-clipart-google-maps-apple-maps-location-summer-jam-logo-sign.png"
+                    className="w-8 h-8"
+                  ></img>
+                </div>
+              </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
                 <a
                   className="btn-css md:p-5"
@@ -147,26 +145,26 @@ const PortfolioProject = () => {
                 source code and can Easily make a network(like teams ).
               </p>
               <p>
-               <div className="flex flex-wrap gap-3 items-center md:mb-3">
-                 <span> Tech Used:</span>
-                 <img
-                   src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-                   className="w-8 h-8"
-                 ></img>
-                 <img
-                   src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-                   className="w-8 h-8"
-                 ></img>
-                 <img
-                   src="https://swyger.agglomy.com/images-ee/press/square-logo-pink.svg"
-                   className="w-8 h-8"
-                 ></img>
-                 <img
-                   src="https://i.pngimg.me/thumb/f/720/comseeklogo433994.jpg"
-                   className="w-8 h-8"
-                 ></img>
-               </div>
-             </p>
+                <div className="flex flex-wrap gap-3 items-center md:mb-3">
+                  <span> Tech Used:</span>
+                  <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+                    className="w-8 h-8"
+                  ></img>
+                  <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+                    className="w-8 h-8"
+                  ></img>
+                  <img
+                    src="https://swyger.agglomy.com/images-ee/press/square-logo-pink.svg"
+                    className="w-8 h-8"
+                  ></img>
+                  <img
+                    src="https://i.pngimg.me/thumb/f/720/comseeklogo433994.jpg"
+                    className="w-8 h-8"
+                  ></img>
+                </div>
+              </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
                 <a
                   className="btn-css md:p-5"
