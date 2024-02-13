@@ -77,6 +77,24 @@ const PortfolioProject = () => {
                 feature which basically tell about the nearest or the other
                 blood banks or camps address.
               </p>
+              <p>
+               
+               <div className="flex flex-wrap gap-3 items-center md:mb-3">
+                 <span> Tech Used:</span>
+                 <img
+                   src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+                   className="w-8 h-8"
+                 ></img>
+                 <img
+                   src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+                   className="w-8 h-8"
+                 ></img>
+                 <img
+                   src="https://appwrite.io/images/logos/appwrite.svg"
+                   className="w-8 h-8"
+                 ></img>
+               </div>
+             </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
                 <a
                   className="btn-css md:p-5"
@@ -124,6 +142,23 @@ const PortfolioProject = () => {
                 you can basically publish or also veiw different projects with
                 source code
               </p>
+              <p>
+               <div className="flex flex-wrap gap-3 items-center md:mb-3">
+                 <span> Tech Used:</span>
+                 <img
+                   src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+                   className="w-8 h-8"
+                 ></img>
+                 <img
+                   src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+                   className="w-8 h-8"
+                 ></img>
+                 <img
+                   src="https://appwrite.io/images/logos/appwrite.svg"
+                   className="w-8 h-8"
+                 ></img>
+               </div>
+             </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
                 <a
                   className="btn-css md:p-5"
