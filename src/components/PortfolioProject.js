@@ -41,6 +41,10 @@ const PortfolioProject = () => {
                     src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
                     className="w-10 h-10"
                   ></img>
+                  <img
+                    src="https://www.chartjs.org/docs/latest/favicon.ico"
+                    className="w-10 h-10"
+                  ></img>
                 </div>
               </p>
               <div className="flex gap-7 px-10 py-3  justify-center md:justify-start md:text-sm md:py-0">
