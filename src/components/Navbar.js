@@ -6,10 +6,10 @@ const Navbar = () => {
     <>
       <div className="portfolio-container text-white flex-col  gap-y-2 sm:justify-between sm:flex-row bg-transparent items-center  p-3 fixed hidden sm:flex z-40">
         <div className="flex gap-6">
-          <a href="#" className="hover:bg-[#f06d55] rounded-full">
+          <a href="https://github.com/coderHarsh121212" className="hover:bg-[#f06d55] rounded-full">
             <Github />
           </a>
-          <a href="" className=" hover:bg-blue-600 rounded-full">
+          <a href="https://www.linkedin.com/in/harsh-pandey-6100572b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className=" hover:bg-blue-600 rounded-full">
             <LinkedIN />
           </a>
         </div>
